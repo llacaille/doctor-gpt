@@ -1,0 +1,608 @@
+PIGMENTARY DISORDERS SECTION 10
+
+
+Vitiligo and Other Disorders of Hypopigmentation
+AUTEURS : Thierry Passeron and Jean-Paul Ortonne
+
+
+Chapter Contents
+Vitiligo	1087
+Hereditary hypomelanosis	1096
+Nutritional hypomelanosis	1103
+Hypomelanosis secondary to cutaneous inflammation	1103
+Infectious and parasitic hypomelanosis	1106
+Halo nevus and melanoma-associated leukoderma	1108
+Chemical and pharmacologic hypomelanosis	1109
+Hypomelanosis from physical agents	1110
+
+INTRODUCTION
+Leukoderma and hypopigmentation are general terms used to designate disorders characterized by lightening of the skin. They are classically the result of decreased epidermal melanin content (melanin-related), but they may be secondary to a decreased blood supply to the skin (hemoglobin-related). Hypomelanosis is a more specific term that denotes a reduction of melanin within the skin; amelanosis signifies the total absence of melanin. Depigmentation usually implies a total loss of skin color, most commonly due to disappearance of pre-existing melanin pigmentation, as in vitiligo. The term pigmentary dilution is used to describe a generalized lightening of the skin and hair, as in oculocutaneous albinism; this may only be apparent if the affected individuals are compared with unaffected relatives.
+Cutaneous hypomelanosis is often classified into two groups: 
+- melanocytopenic hypomelanosis, caused by a reduction in the number of epidermal and/or follicular melanocytes
+- melanopenic hypomelanosis, in which the number of epidermal and/or follicular melanocytes is normal, but the pigment cells fail to synthesize normal amounts of melanin and/or transfer it to surrounding keratinocytes.
+Melanocytopenic hypomelanosis may be hereditary and/or congenital due to a defect in melanoblast differentiation, proliferation, migration and/or survival, or it may be acquired. In the latter case, functional melanocytes can disappear as a result of their destruction from insults such as external trauma (e.g. cryosurgery) or an autoimmune attack. The factors controlling melanocyte survival may also play a role in the postnatal disappearance of dermal melanocytes. Melanopenic hypomel- anosis may result from complex pathologic mechanisms, including melanosomal abnormalities that affect biogenesis, melanization, trans- fer, or degradation.
+
+DIAGNOSIS OF LEUKODERMAS
+Any patient with a leukoderma should be fully examined under visible light and using a Wood's lamp (~365 nm). The latter is particularly useful in circumscribed leukodermas, individuals who have very lightly pigmented skin (phototypes I or II), and neonates. Under visible light, it is sometimes difficult to distinguish between hypomelanosis and amela- nosis, but the greater the loss of epidermal pigmentation, the more marked the contrast on Wood's lamp examination. This technique is also helpful in differentiating hypomelanotic macules from hemoglobin- related leukodermas; for example, nevus anemicus becomes inapparent. Most leukodermas are diagnosed clinically following a complete history and physical examination. Determining whether the distribu- tion pattern is circumscribed (e.g. vitiligo), diffuse (e.g. albinism), linear, or guttate (e.g. idiopathic guttate hypomelanosis) helps to narrow the differential diagnosis. The age of onset, presence or absence of preceding inflammation, anatomic location, and degree of pigment loss represent other pertinent features. Histologic examination of involved skin is most useful for several of the hypomelanoses associated with inflamma-
+tory processes (e.g. sarcoidosis, lichen sclerosus, mycosis fungoides).
+
+VITILIGO
+Vitiligo is an acquired disorder characterized by circumscribed depig- mented macules and patches that result from the loss of functional melanocytes.
+Epidemiology
+Worldwide vitiligo affects approximately 0.5-2% of the general popula- tion1, and it may appear any time from shortly after birth to late adult- hood. The average age of onset is ~20 years. Although patients with vitiligo may attribute the onset of their disease to specific life events (e.g. physical injury, sunburn, emotional distress, illness, pregnancy), with the exception of the Koebner phenomenon, there is no proof that these factors cause or precipitate vitiligo.
+
+ABSTRACT
+Leukoderma and hypopigmentation refer to lightening of the skin, which is classically due to decreased epidermal melanin (hypomelano- sis) but may also result from decreased cutaneous blood supply. Mela- nocytopenic hypomelanosis is characterized by reduced or absent vs a reduction in the number of melanocytes, whereas melanopenic hypomelanosis features a normal number of melanocytes but decreased melanin synthesis or transfer to keratinocytes. The age of onset (con- genital or acquired), degree of pigment loss (hypo- versus depigmenta- tion), presence or absence of preceding inflammation, anatomic location, and distribution pattern - circumscribed, diffuse, linear, or guttate - represent key considerations in the evaluation of a patient with hypomelanosis. This chapter first discusses vitiligo, a common multifactorial disorder involving the autoimmune destruction of mela- nocytes that presents with depigmented macules and patches in a localized or generalized distribution. Hereditary, nutritional, postin- flammatory, infectious, and chemical forms of hypomelanosis as well as halo nevi and melanoma-associated leukoderma are also reviewed.
+
+KEYWORDS
+
+hypopigmentation leukoderma hypomelanosis depigmentation vitiligo
+oculocutaneous albinism piebaldism
+Waardenburg syndrome Hermansky-Pudlak syndrome Griscelli syndrome Chdiak-Higashi syndrome ash leaf spot
+nevus depigmentosus
+linear nevoid hypopigmentation hypomelanosis of Ito
+segmental pigmentation disorder progressive macular hypomelanosis postinflammatory hypomelanosis pityriasis alba
+melanoma-associated leukoderma halo nevus
+idiopathic guttate hypomelanosis
+
+
+
+Pathogenesis
+Vitiligo is a multifactorial disorder related to both genetic and nonge- netic factors. It is generally agreed that there is an absence of functional melanocytes in vitiligo skin and that the loss of histochemically recog- nizable melanocytes is the result of their destruction.
+Genetics of vitiligo
+Both twin and family studies point to the importance of genetic factors in the development of vitiligo2,3. For example, a survey in the US and UK found that 7% of the first-degree relatives of vitiligo probands had vitiligo. However, a 23% concordance rate in monozygotic twins supported the additional role of environmental factors4. Genome-wide linkage analyses have been performed in multiple patient populations, resulting in the identification of a number of susceptibility loci and candidate genes. Many of these genes are involved in melanogenesis, immune regulation, or apoptosis and have been associated with other pigmentary, auto- immune, or autoinflammatory disorders5-7 (Table 66.1).
+Pathogenic hypotheses for vitiligo
+Many pathogenic hypotheses have been proposed for vitiligo, in part reflecting the incomplete understanding of the mechanisms that under- lie this complex condition (Fig. 66.1). A primary challenge is the fact that what is referred to as vitiligo likely represents a heterogeneous group of diseases with different genetic backgrounds and environmental triggers.
+The immune system clearly plays a central role, in particular Th1 and Th17 cells, along with cytotoxic T cells, regulatory T cells, and dendritic cells; key mediators include interferon-? (IFN-?), C-X-C che- mokine ligand 10 (CXCL10), and interleukin-22 (IL-22)8-12b. Animal models of vitiligo in which there are T cells reactive against melanocyte antigens have demonstrated the importance of an inflammatory den- dritic cell (DC) phenotype and the INF-? pathway13,14.
+Intrinsic defects of melanocytes and exogenous triggers may also play a role in vitiligo development. In addition, oxidative stress has been investigated as a pathogenic factor that could activate the immune response in vitiligo and underlie impaired WNT signaling that prevents melanoblast differentiation15-18a. Accumulating data highlight the com- plexity of vitiligo, with involvement of multiple cell types, including keratinocytes, fibroblasts, and stem cells as well as immune cells19,20. These hypotheses are not mutually exclusive and the various pathways may converge to induce the disappearance of melanocytes from the skin and hair follicles. However, the exact cascade of events remains to be elucidated.
+
+Clinical Features
+The most common presentation of vitiligo is totally amelanotic (milk- or chalk-white) macules or patches surrounded by normal skin.
+
+Fig. 66.1 Proposed model for the pathogenesis of vitiligo. Inherited genetic risk (see Table 66.1) and environmental insults (e.g. monobenzyl ether of hydroquinone [MBEH], 4-tertiary butyl phenol [4-TBP]) induce melanocyte stress, exemplified by endoplasmic reticulum (ER) stress. Stressed melanocytes signal to local innate and resident skin cell types via exosomes containing antigen and damage-associated molecular patterns (DAMPs), soluble heat shock protein 70 (HSP70), and other factors. These signals activate several cell types, some of which migrate to the draining lymph nodes and stimulate T cells, which secrete interferon-? (IFN-?). IFN-? signals through the IFN-? receptor (IFN-?R) on keratinocytes and/or other cells; this involves phosphorylation of the transcription factor STAT1 by Janus kinases (JAK) 1 and 2. Phosphorylated STAT1 homodimerizes and then translocates into the nucleus, where IFN-?-dependent genes such as CXCL10 (C-X-C chemokine ligand 10) are transcribed. Autoreactive CD8+ T cells that express C-X-C chemokine receptor 3 (CXCR3) follow secreted CXCL10 to the skin, where they kill melanocytes. Approaches targeting this IFN-?-STAT1-CXCL10 axis that drives melanocyte destruction (e.g. with JAK inhibitors or antibodies against CXCR3) hold promise as potential treatments for vitiligo. ROS, reactive oxygen species; STAT1, signal transducer and activator of transcription 1; TYRP-1, tyrosinase-related protein 1. Adapted from Strassner JP, Harris JE. Understanding mechanisms of autoimmunity through translational research in vitiligo. Curr Opin Immunol. 2016;443:81-8.
+
+Well-developed lesions typically have discrete margins and may be round, oval, irregular, or linear in shape. The borders are usually convex, as if the depigmenting process were "invading" the surrounding normally pigmented skin. However, at their onset or when actively spreading, areas of vitiligo may be more ill-defined and hypo- rather than depigmented21.
+
+Lesions enlarge centrifugally over time at a rate than can be slow or rapid. Vitiligo macules and patches range from millimeters to centime- ters in diameter and often have variable sizes within an area of involve- ment. In lightly pigmented individuals, the lesions may be subtle or inapparent without Wood's lamp examination or tanning of uninvolved skin. In darkly pigmented patients, the contrast between vitiliginous areas and the surrounding skin is striking (Fig. 66.2). Vitiligo is usually asymptomatic, but pruritus is occasionally noted, especially within active lesions.
+  
+Vitiligo may develop anywhere on the body. Interestingly, it fre- quently localizes to sites that are normally relatively hyperpigmented, such as the face, dorsal aspect of the hands, nipples, axillae, umbilicus, and sacral, inguinal and anogenital regions (see Fig. 66.2). Typically, facial vitiligo occurs around the eyes and mouth (i.e. periorificial), and on the extremities it favors the elbows, knees, digits, flexor wrists, dorsal ankles and shins (Figs 66.3 & 66.4). The most common sites of involvement are areas subjected to repeated trauma, pressure, or fric- tion (e.g. in body folds or via contact with clothing). Palmoplantar and oral mucosal involvement in lightly pigmented individuals is often dif- ficult to visualize without Wood's lamp examination. In acrofacial viti- ligo, periungual involvement of one or more digits may be associated with lip depigmentation; however, either can be an isolated finding.
+  
+The incidence of body leukotrichia varies from 10% to >60%, as viti- ligo often spares follicular melanocytes. The occurrence of leukotrichia does not correlate with disease activity. Rarely, follicular vitiligo pre- sents with leukotrichia in the absence of depigmentation of the sur- rounding epidermis21a. Although vitiligo of the scalp, eyebrows, and eyelashes usually presents as one or more localized patches of white or gray hair (poliosis; Fig. 66.5), scattered white hairs due to involvement of individual follicles or even total depigmentation of all scalp hair may occur.
+
+Clinical variants
+Vitiligo ponctu, an unusual clinical presentation of vitiligo, is charac- terized by multiple, small, discrete amelanotic macules (confetti-like), sometimes superimposed upon a hyperpigmented macule. Erythema at the margin of a vitiligo macule is referred to as "vitiligo with raised inflammatory borders" or inflammatory vitiligo (Fig. 66.6); a figurate papulosquamous variant has also been described. Occasionally, a hyper- pigmented margin is seen. Blue vitiligo can result when vitiligo develops in areas of postinflammatory dermal pigmentation.
+  
+Trichrome vitiligo is characterized by a hypopigmented zone between the normal and depigmented skin. This intermediate zone has a fairly uniform hue rather than gradually progressing from white to normal.
+
+The number of melanocytes is also intermediate in this zone, suggest- ing a slower centrifugal progression compared with typical vitiligo. Quadrichrome and pentachrome vitiligo have also been described.
+  Hypochromic vitiligo (vitiligo minor) was recently described in patients with skin types V and VI22. They presented with persistent hypopigmented macules in a seborrheic distribution, with lesions coalescing on the face and scattered on the neck, trunk, and scalp. A few individuals had additional achromic macules, and there was no history of prior inflammatory lesions. Decreased melanocyte density was noted histologically.
+  One of the manifestations of vitiligo is the isomorphic Koebner phe- nomenon (IKP), which is characterized by the development of vitiligo in sites of trauma, such as a surgical excision, burn, or abrasion. The IKP is more common in patients with progressive vitiligo, and it can occur in various forms of vitiligo. There appears to be a minimal threshold of injury required for the IKP to occur, bringing into question the hypothesis that minor trauma, such as friction from clothes (in the absence of true injury), can induce vitiligo lesions.
+
+Clinical classification of vitiligo
+Multiple attempts to classify the different types of vitiligo have resulted in confusing terminology. Two major forms are generally recognized:
+(1) segmental, which usually does not cross the midline; and (2) non- segmental, also simply called "vitiligo" without qualification23,24. Mixed vitiligo refers to segmental and non-segmental forms occurring in the same patient25.
+  The following classification scheme divides vitiligo into two major types, localized and generalized (see Fig. 66.4).
+
+Localized:
+Focal: one or more macules in one area, but not clearly in a segmental distribution
+Unilateral/segmental: one or more macules involving one or rarely multiple segments of the body (Fig. 66.7); lesions are typically unilateral and stop abruptly at the midline
+Mucosal: mucous membranes alone
+
+Generalized:
+Vulgaris: scattered patches that are widely distributed
+Acrofacial: distal extremities and face
+Mixed: combination of segmental and generalized (acrofacial and/ or vulgaris) types
+Universal: complete or nearly complete depigmentation
+Overall, >90% of vitiligo patients have the vulgaris or acrofacial variants of the generalized type. In the remainder, localized vitiligo is more common than mixed or universal vitiligo. Segmental vitiligo is more common in children than adults, accounting for ~15-30% of vitiligo in pediatric patients (see below).
+
+Course of the disease
+The onset of vitiligo is usually insidious. Many patients become aware of the depigmented macules and patches, especially in sun-expose areas, during the summer when tanning increases the contrast between involved and uninvolved skin. Clinical erythema or pruritus rarely precedes vitiligo.
+
+The course of vitiligo is unpredictable. It becomes more extensive by the appearance of new depigmented macules, centrifugal enlargement of pre-existing lesions, or both processes. Peripheral hypopigmentation and poorly defined borders appear to be predictive of active vitiligo21. A spotty pattern of depigmentation may also represent a marker of progressive disease. The natural course of generalized vitiligo is usually one of slow spread, but it may stabilize for a long period of time or evolve rapidly. Rarely, total body involvement develops within a few weeks or even days. In contrast, segmental vitiligo usually reaches its full extent within 1-2 years and remains restricted to the initial seg- mental area. The presence of halo nevi and leukotrichia increases the likelihood of evolution from segmental to mixed vitiligo26. Some degree of sun-induced or spontaneous repigmentation of vitiligo is not uncom- mon, but complete and stable repigmentation is rare.
+
+The vitiligo area scoring index (VASI) and Vitiligo European Task
+Force (VETF) score represent validated quantitative assessment scales27. However, universally accepted definitions for active and stable vitiligo are still lacking.
+Vitiligo and ocular disease
+The uveal tract (iris, ciliary body, and choroid) and retinal pigment epithelium contain pigment cells. Uveitis is the most significant ocular abnormality associated with vitiligo. Vogt-Koyanagi-Harada (VKH) syn- drome is characterized by: (1) uveitis; (2) aseptic meningitis; (3) otic involvement (e.g. dysacusia); and (4) vitiligo, especially of the face or sacral region, and associated poliosis. Histologic examination of amelanotic skin, which classically appears after the extracutaneous symptoms, demonstrates an infiltrate consisting primarily of CD4+ lymphocytes, suggesting a prominent role for cell-mediated immunity. Non-inflammatory depigmented lesions of the ocular fundus are evident in some patients with vitiligo, presumably representing focal areas of melanocyte loss. Although abnormal sensory hearing loss has been described in vitiligo patients, suggesting impairment of cochlear melanocytes, clearcut evidence of otic abnormalities remains to be
+demonstrated.
+
+Alezzandrini syndrome is a rare disorder characterized by unilateral whitening of scalp hair, eyebrows, and eyelashes as well as ipsilateral depigmentation of facial skin and visual changes. In the affected eye, there is decreased visual acuity and an atrophic iris. The pathogenesis of Alezzandrini syndrome is unknown, but it is believed to be closely related to VKH syndrome.
+
+Associated disorders
+Although most vitiligo patients are otherwise healthy, generalized viti- ligo is associated with a number of other autoimmune diseases, espe- cially in patients with a family history of vitiligo and other forms of autoimmunity. Autoimmune thyroid disease occurs in ~15% of adults and ~5-10% of children with vitiligo28, and other less frequently associ- ated conditions include pernicious anemia, Addison disease, lupus erythematosus, rheumatoid arthritis, and adult-onset insulin-dependent diabetes mellitus29,30. Of note, these conditions have been linked to the same autoimmunity predisposition genes as in vitiligo (e.g. PTPN22, NLRP1; see Table 66.1). Halo melanocytic nevi, alopecia areata, and lichen sclerosus are additional autoimmune skin conditions that may be associated with vitiligo.
+
+Patients       with       the       autosomal       recessive       autoimmune
+polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED) syn- drome often develop vitiligo. The gene responsible for APECED, AIRE (autoimmune regulator), encodes a transcription factor that promotes expression of tissue-specific self-antigens in the thymus, which facili- tates development of peripheral tolerance. In APECED, failure to delete autoreactive T cells leads to autoimmune disease. In a mouse model, AIRE deficiency was found to result in tyrosinase-related protein-1 (TYRP1)-specific T cells that enhanced immune responses against melanoma31.
+Childhood vitiligo
+
+Although vitiligo vulgaris is the most common clinical type observed in children, the frequency of segmental vitiligo (~15-30%) is significantly increased compared to that in adults (<5-10%)32. The incidence of associated endocrinopathies is less than in the adult viti- ligo population. A family history of vitiligo is associated with an earlier age of onset30.
+
+Pathology
+In lesions of vitiligo, melanocytes are typically absent or present in very small numbers (Fig. 66.8). The epidermal melanocyte density can be assessed with melanocyte-specific immunohistochemical stains, such as Melan-A (MART-1), MITF, and HMB45, or via incubation of biopsy specimens with dihydroxyphenylalanine (DOPA; detects tyrosinase activity). Although ultrastructural studies may be performed for research purposes, very few hypomelanotic disorders have specific ultrastruc- tural findings.
+
+Differential Diagnosis
+When there is complete depigmentation, the differential diagnosis may include chemical or drug-induced (e.g. imatinib) leukoderma, postin- flammatory depigmentation, the leukodermas associated with mela- noma and scleroderma, the late stages of treponematosis and onchocerciasis, and (for congenital lesions) piebaldism. A single circular depigmented lesion on the trunk of a young person may represent a stage III halo nevus (see below). Early lesions or those with a partial loss of pigment need to be distinguished from postinflammatory hypopigmentation, tinea versicolor, and other cutaneous infections (e.g. leprosy). In addition to a decrease, rather than an absence, of pigment, nevus depigmentosus can be distinguished by its stability and early onset, although lesions may not become apparent until mid-childhood in lightly pigmented individuals. Treatment with potent topical corticosteroids can also lead to hypomelanosis.
+
+Treatment
+The aims are stabilization of the depigmentation process and repigmen- tation. Although there is still no therapeutic panacea for vitiligo, avail- able options can lead to satisfactory results. The therapeutic regimen depends on the extent, location, and activity of disease as well as the patient's age, skin type, and motivation for treatment. In general, a period of at least 2-3 months is needed to determine whether a particu- lar treatment is effective. The face, neck, mid extremities, and trunk tend to have the best response to therapy, while the distal extremities and lips are the most resistant to treatment. Repigmentation initially appears in a perifollicular pattern (unless the affected site is hairless or has depigmented hairs) and/or at the periphery of the lesions (Fig. 66.9). After therapeutic repigmentation, the rate of recurrent depigmentation of vitiligo lesions is ~40%33.
+
+
+Corticosteroids
+Topical corticosteroids are useful for localized areas of vitiligo. A meta- analysis showed that approximately half of patients with vitiligo affect- ing =20% of the body surface area (BSA) achieved >75% repigmentation with class 1 (superpotent) or 2-3 (high potency) topical corticosteroids; cutaneous atrophy was observed in 14% and 2% of these groups, respec- tively34. To minimize side effects, class 1 corticosteroids can be used in 6-8-week cycles or on a twice-weekly basis, alternating with topical tacrolimus or a less potent topical corticosteroid35. Treatment should be discontinued if there is no visible improvement after 2-3 months.
+
+In general, intralesional corticosteroids should be avoided because of the pain associated with injection and the higher risk of cutaneous atrophy (=30%). Systemic corticosteroid regimens utilizing high-dose pulses, mini-pulses, or low daily oral doses have been reported to arrest rapidly spreading vitiligo and induce repigmentation36,37. However, given the potential for serious side effects, the role of systemic corticosteroids in the treatment of vitiligo remains controversial.
+
+
+Topical calcineurin inhibitors (TCIs)
+Multiple studies have shown that topical tacrolimus 0.1% ointment or pimecrolimus 1% cream applied twice daily can result in repigmenta- tion of vitiligo, with response rates in pediatric patients similar to those achieved with topical corticosteroids. The best results are obtained when these agents are used on the face and other sun-exposed areas, suggesting a synergistic effect. TCIs can also enhance repigmentation when used in conjunction with narrowband UVB phototherapy or the excimer laser38,39. Of note, avoidance of UV light is suggested by the package insert for TCIs, and the risk:benefit ratio should be discussed. Topical tacrolimus can also be used together with topical corticosteroids on a rotational basis (see above) or as maintenance therapy after repig- mentation. In a recent randomized controlled study, bi-weekly applica- tion of tacrolimus 0.1% ointment to sites of previous vitiligo reduced the rate of recurrent depigmentation to 10%, compared to 40% with placebo40.
+Photo(chemo)therapy
+
+Narrowband UVB
+Narrowband UVB (NB-UVB; see Ch. 134) has become the first-line treatment for adults and children =6 years of age with generalized viti- ligo41, especially if it involves =20% of the body surface area or cosmeti- cally sensitive areas that typically respond to treatment. Several studies have demonstrated the effectiveness of NB-UVB monotherapy42,43, which is superior to broadband UVB for the treatment of vitiligo. The starting dose of NB-UVB ranges from 100-250 mJ/cm2, which is increased in increments of 10-20% at each subsequent exposure until mild, asymptomatic lesional erythema is achieved. Treatments are administered 2-3 times per week, but not on two consecutive days42. Short-term side effects include pruritus and xerosis; long-term side effects (e.g. cutaneous carcinogenesis) have not been reported. The advantages of NB-UVB over psoralen plus UVA (PUVA) therapy include shorter treatment times, no gastrointestinal side effects, reduced pho- totoxic reactions, less accentuation of the contrast between depig- mented and normally pigmented skin, and no need for post-treatment photoprotection. In addition, NB-UVB can be used in children, preg- nant or lactating women, and individuals with hepatic or kidney dysfunction.
+
+Psoralen plus UVA
+Psoralen photochemotherapy involves the use of psoralens combined with UVA light (see Ch. 134). The psoralen most commonly used is 8-methoxypsoralen (8-MOP, methoxsalen). 5-methoxypsoralen (5-MOP, bergapten) is not approved in the US and 4,5',8-trimethylpsoralen (TMP, trioxsalen) is no longer commercially available. Psoralens can be administered orally (oral PUVA) or applied topically (topical PUVA), followed by exposure to either UVA light or natural sunlight (PUVASOL). Oral PUVA treatments using 8-MOP (0.4-0.6 mg/kg) are typically administered two times weekly. For patients with vitiligo, the initial dose of UVA is usually 0.5-1.0 J/cm2, which is gradually increased until minimal asymptomatic erythema of the involved skin occurs. To reduce the risk of the Koebner phenomenon, significant erythema (phototoxic- ity) is avoided. 5-MOP has about the same response rate as 8-MOP in repigmenting vitiligo, but a lower incidence of phototoxicity as well as less nausea and vomiting.
+
+The response rate to PUVA is variable; it often produces cosmetically acceptable improvement, but complete repigmentation is uncommon. The total number of PUVA treatments required is generally 50-300. The absolute and relative contraindications, as well as the short- and long-term side effects, of oral PUVA therapy are reviewed in Chapter 134. To date, only a few vitiligo patients with PUVA-induced cutaneous carcinomas have been reported. Although this probably reflects a smaller cumulative UVA dose than in patients treated for other disor- ders such as psoriasis, large follow-up studies have not yet been done in PUVA-treated vitiligo patients. Until more data are available, it seems wise to recommend 1000 J/cm2 as the maximum cumulative (P) UVA dose and 300 as the maximum number of UVA treatments.
+
+Topical (paint) PUVA is more difficult to perform because of the high risk of phototoxicity and subsequent blistering or koebnerization. A low concentration (=0.1%) of psoralen should be used, which requires dilu- tion of the commercially available preparation. Approximately 20-30 minutes after applying the topical cream or ointment onto the lesions, the patient should be exposed to initial UVA doses of no more than
+0.25 J/cm2, with the same fractional increments until mild erythema is achieved in the treated sites.
+
+PUVASOL (psoralens + natural sunlight) can be used in sunnier cli- mates, utilizing the same principles as for PUVA. Less phototoxic oral psoralens such as 5-MOP are preferred in order to avoid phototoxic reactions.
+Other phototherapies
+Oral khellin plus UVA (KUVA) and phenylalanine plus UVA have also been employed. There have been conflicting reports regarding efficacy as well as concerns regarding the hepatotoxicity of khellin. As a result, these modalities are not recommended. Topical KUVA has a relatively low risk of phototoxicity, but it requires a longer duration of treatment and higher UVA doses than does oral PUVA44.
+Focused microphototherapy has the advantage of irradiating only the depigmented skin. A directed beam of broadband or narrowband UVB light is applied to areas of vitiligo using spot sizes of 1-5 cm. Treat- ments are administered from several times weekly to twice monthly. In one large study, 70% of patients who received a mean of 24 treat- ments over a 12-month period achieved >75% repigmentation.
+
+Lasers and related light devices
+Excimer laser and lamp
+The operational wavelength of the 308 nm excimer laser and lamp is close to that of NB-UVB45. The therapeutic benefit of the excimer laser for vitiligo has been investigated in multiple studies, and, overall, 20-50% of lesions achieve =75% repigmentation46-48; the excimer lamp appears to have similar efficacy49,50. Only a few studies have directly compared excimer laser to NB-UVB, and some but not all showed superior results with the former modality48,51. This may be explained by the excimer laser's higher irradiance (power per unit area), which is thought to stimulate melanocyte development52.
+
+Localized patches of vitiligo are treated one to three times weekly with the excimer laser, typically for a total of 24 to 48 sessions; the repigmentation rate depends on the total number of sessions, not their frequency39. In practice, twice weekly treatments for a total of ~40 sessions is thought to be optimal. As with other vitiligo therapies, facial lesions respond better than those on the distal extremities and overly- ing bony prominences48. Erythema and (rarely) blistering represent potential side effects38.
+
+Helium-neon laser
+The helium-neon laser emits a wavelength (632.8 nm) in the red visible light range that can enhance melanocyte proliferation and mela- nogenesis in vitro53. In a study performed in 30 patients with segmental vitiligo, 20% of lesions achieved =75% repigmentation after a mean of 79 treatment sessions, which were administered once or twice weekly54.
+
+Surgical therapies
+For vitiligo patients who fail to respond to medical therapy, surgical treatment with autologous transplantation techniques may be an option55,56. The general selection criteria for autologous transplantation include stable disease for =6 months, absence of the Koebner phenom- enon, no tendency for scar or keloid formation, and age >12 years57. A minigraft test showing retention/spread of pigment at the recipient site and no koebnerization at the donor site after 2-3 months can also assist in patient selection.
+
+Several methods of surgical repigmentation have been successfully utilized. Minigrafting is the simplest technique. Small punch grafts (1-2 mm) from uninvolved skin are implanted within achromic areas, separated from each other by 5-8 mm. A cobblestone effect, a varie- gated appearance of the grafts, and sinking pits represent potential unfavorable outcomes. Because scarring and dyspigmentation may occur at the donor sites, cosmetically insensitive areas are chosen. The advantages of suction blister epidermal grafting are the absence of scar- ring at the donor site and the possibility of reusing this area. However, failure of the graft to take and koebnerization may occur. Grafting of cultured autologous melanocytes is an expensive technique that requires specialized laboratory expertise; grafts consist of pure melanocytes or melanocytes admixed with keratinocytes58. To avoid the need for in vitro culture, which involves mitogens to enhance cell growth, grafting of non-cultured epidermal cell suspensions that include melanocytes has been advocated59. Grafting of individual hairs to repigment vitiligo leukotrichia has also been successfully performed. Most of these tech- niques require clinical expertise.
+
+Combination therapy
+Combination therapy may produce higher rates of repigmentation com- pared to traditional monotherapies. Examples include phototherapy following surgical procedures as well as combining TCIs and/or topical corticosteroids with NB-UVB or excimer laser therapy60-65. Although topical vitamin D derivatives are relatively ineffective as monotherapy, these agents may result in additional repigmentation when used in conjunction with phototherapy.
+
+Micropigmentation
+The technique of permanent dermal micropigmentation utilizes a non- allergenic iron oxide pigment to camouflage recalcitrant areas of viti- ligo. This tattooing method is especially useful for the lips, nipples and distal fingers, which have a poor rate of repigmentation with currently available treatments. Although the color may not match perfectly with the normal surrounding skin and can fade over time, the result is immediate and can represent a dramatic aesthetic improvement.
+
+Depigmentation
+Depigmentation represents a treatment option for patients who have widespread vitiligo with only a few areas of normally pigmented skin in exposed sites. The patients must be carefully chosen, i.e. adults who recognize that their appearance will be altered significantly and who understand that depigmentation requires lifelong strict photoprotection (e.g. sunscreens, clothing, umbrellas). The most commonly used agent is 20% monobenzyl ether of hydroquinone (MBEH), applied once to twice daily to the affected areas for 9-12 months or longer66. MBEH is a potent irritant and allergen, and an open application test can be per- formed before more widespread application. It typically takes 1-3 months to initiate a response, and a loss of pigment can occur at distant sites. Although depigmentation from MBEH is considered permanent, repigmentation (especially perifollicular in areas with pigmented hairs) can be seen following a sunburn or intense sun exposure. Monomethyl ether of hydroquinone (MMEH) in a 20% cream can be used as an alternative to MBEH67. Side effects include contact dermatitis, exoge- nous ochronosis, and leukomelanoderma en confetti. Depigmentation via Q-switched ruby laser therapy was reported to achieve faster depig- mentation than that achieved with a bleaching agent67, and this laser has also been used in combination with topical 4-methoxyphenol to induce depigmentation68. Lastly, depigmentation with the Q-switched alexandrite laser has been described69.
+
+Psychological support
+The impact of vitiligo on quality of life is severe in many affected indi- viduals, and it is critical for physicians to recognize this aspect of the condition and address their patients' psychological needs. Although a "magic" treatment is not yet available, there is always something ben- eficial that can be done for vitiligo patients. They first need to know what their skin disorder is. Explaining the nature of the disease process and the potential and limits of available therapies is important and more productive than a fatalistic attitude that there is no cure and viti- ligo is "only" a cosmetic disorder. Even helping patients to conceal the condition so that it is not visible can be part of the management plan. The use of support groups and, if indicated, psychological counseling are important supplementary therapies.
+
+Additional controversial therapies
+Pseudocatalase with narrowband UVB
+The rationale for this treatment is based on the hypothesis that accu- mulation of hydrogen peroxide leads to pathogenic inactivation of cata- lase in the skin of patients with vitiligo (Table 66.2). In an open uncontrolled study, complete repigmentation of lesions on the face and hands was observed in 90% of patients (30 of 33) treated with topical pseudocatalase and calcium twice daily plus UVB twice weekly, with initial repigmentation at 2-4 months70. Controlled trials, however, showed no efficacy of topical pseudocatalase/superoxide dismutase compared to placebo and no additional benefit of pseudocatalase com- pared to UVB alone71,72.
+
+
+Systemic antioxidant therapy
+The rationale for this approach rests on the hypothesis that vitiligo results from a deficiency of natural antioxidant mechanisms. Although to date not validated by controlled clinical trials, selenium, methionine, tocopherols, ascorbic acid, and ubiquinone are prescribed by some physicians.
+Potential emerging treatments
+Ablative laser treatment followed by narrowband UVB plus topical 5-fluorouracil or corticosteroids
+In difficult-to-treat sites (e.g. distal extremities, over bony promi- nences), erbium:YAG laser ablation of vitiligo lesions followed by NB-UVB therapy twice weekly for 3-4 months, plus topical application of either 5-fluorouracil or a potent corticosteroid, was found to result in significantly greater repigmentation than treatment with NB-UVB  the topical corticosteroid73,74. Similar studies have shown that treat- ment of recalcitrant vitiligo lesions with an ablative fractional carbon dioxide laser led to greater efficacy of subsequent therapy with NB-UVB, outdoor sun, and/or a potent topical corticosteroid75,76. In order to minimize koebnerization, these approaches should be reserved for patients with stable vitiligo.
+
+Topical prostaglandins
+Preliminary studies have suggested the utility of topical prostaglandin E2 and latanoprost (an analogue of prostaglandin F2) in the treatment of vitiligo77,78. Although interesting, these results require confirmation.
+
+Afamelanotide
+Afamelanotide is an a-melanocyte stimulating hormone (a-MSH) ana- logue that stimulates melanogenesis and melanocyte proliferation by binding to the melanocortin-1 receptor (MC1R; see Ch. 65). A recent randomized controlled study found that the addition of afamelanotide (monthly subcutaneous implants) to NB-UVB therapy increased the speed and extent of repigmentation compared to NB-UVB alone in patients with generalized vitiligo, especially those with skin types IV- VI79. However, afamelanotide-induced excessive tanning of non-lesional skin can increase the contrast with lesional skin, thereby reducing cosmetic acceptance in lightly pigmented patients80. Additional studies are needed to determine the indications and limitations of afamela- notide therapy for vitiligo.
+
+Janus kinase (JAK) inhibitors
+Administration of the JAK inhibitors ruxolitinib and tofacitinib has been reported to lead to repigmentation of vitiligo. Further investigation is needed to determine how approaches targeting the IFN-?-JAK-STAT1 signaling pathway that drives melanocyte destruction can be utilized to treat vitiligo (see Fig. 66.1).
+
+HEREDITARY HYPOMELANOSIS
+
+Oculocutaneous Albinism
+Oculocutaneous albinism (OCA) consists of a group of genetic disorders characterized by diffuse pigmentary dilution due to a partial or total absence of melanin pigment within melanocytes of the skin, hair fol- licles, and eyes81. The number of epidermal and follicular melanocytes is normal. Hypopigmentation involving primarily the retinal pigment epithelium is termed ocular albinism (OA).
+Epidemiology
+OCA is the most common inherited disorder that leads to diffuse hypomelanosis. In most  populations,  the  estimated  frequency  is 1 : 20 000; however, it is as high as 1 : 1500 in some African tribes.
+Pathogenesis
+All well-characterized types of OCA have an autosomal recessive inheri- tance pattern, although a few rare families with autosomal dominant OCA have been described82. Based upon molecular studies, four types of OCA have been defined (see Table 65.1). OCA type 1 (OCA1) results from reduced (OCA1B) or absent (OCA1A) tyrosinase activity; at least 320 distinct mutations in the tyrosinase gene (TYR) have been identi- fied in patients with OCA183. OCA2 is due to mutations in the P gene (pink-eyed dilution; now referred to as OCA2)84. Although the function of the P protein is still debated, studies have pointed to a possible role in regulating organelle pH and facilitating vacuolar accumulation of glutathione.
+OCA3 results from mutations in the tyrosinase-related protein 1 (TYRP1) gene85. The TYRP1 protein is a melanocyte-specific gene product involved in eumelanin synthesis (see Fig. 65.11), probably via stabilization of tyrosinase. Both OCA1 and OCA3 appear to be endo- plasmic reticulum (ER) retention diseases wherein the abnormal pro- teins (tyrosinase or TYRP1) never leave the ER to become incorporated into melanosomes86 (see Fig. 65.7). Of note, dysfunction of the P protein can also lead to abnormal processing and trafficking of tyrosi- nase. OCA4 is caused by mutations in SLC45A2 which encodes solute carrier family 45 member 2 (formerly membrane-associated trans- porter protein [MATP]), a transmembrane transporter with roles in tyrosinase processing and intracellular trafficking of proteins to the melanosome87.
+OCA5 has been linked to chromosome 4q24, but the responsible gene has not yet been identified. OCA6 was recently found to result from mutations in SLC24A5, which encodes a putative cation exchanger localized to the melanosomal membrane88. Of note, this gene was previously identified as one of the determinants of the physiologic variation in human pigmentation. Lastly, mutations in C10orf11 (chro- mosome 10 open reading frame 11) underlie OCA7; the C10orf11 protein is expressed in melanoblasts as well as melanocytes and is thought to have a role in melanocyte differentiation89.
+  
+Autosomal recessive OA (AROA) is genetically heterogeneous, and some cases actually represent OCA1B or OCA2 but with subtle cutane- ous findings. The most common form of OA is an X-linked recessive disorder caused by mutations in the G protein-coupled receptor 143 gene (GPR143; formerly OA1), which encodes a pigment cell-specific intracellular G protein-coupled receptor that regulates melanosome formation and transport within melanocytes and cells of the retinal pigment epithelium90. Mutations in GPR143 that lead to ocular albi- nism can result in retention of the aberrant protein within the ER.
+
+Clinical features
+Ocular manifestations
+The many ocular manifestations of OA and OCA reflect a reduction in melanin within eye structures or misrouting of optic nerve fibers during development. The former leads to a translucent iris that transmits light upon globe transillumination, as well as a relatively hypopigmented retina and fovea that are associated with photophobia and reduced visual acuity; the severity of these findings correlates with the amount of reduction in melanin pigment. Misrouting of the optic fibers is thought to be responsible for the characteristic strabismus, nystagmus, and lack of binocular vision.
+
+OCA1
+There are two clinical subtypes of OCA1, based upon whether tyrosi- nase activity is reduced (OCA1B) or absent (OCA1A).
+
+OCA1A
+OCA1A corresponds to the classic "tyrosinase-negative" OCA. The melanocytes of the skin, hair, and eyes synthesize no melanin. The characteristic phenotype includes white hair, milky white skin, and blue-gray eyes at birth. With age, the skin color remains white and melanocytic nevi amelanotic, but the hair may develop a slight yellow tint due to denaturing of hair keratins. These patients have an extreme sensitivity to UV light and a strong predisposition to skin cancer. Reduced visual acuity is most severe in OCA1A, and some patients are legally blind.
+
+OCA1B
+Because the decrease in tyrosinase activity varies, the phenotype ranges from obvious to subtle pigmentary dilution when compared with first- degree relatives. One of the original OCA1B phenotypes was called "yellow albinism" because of the eventual color of the patient's hair, since the formation of yellow pheomelanin requires less tyrosinase activity. Other clinical types of OCA1B have been referred to as "minimal pigment OCA", "platinum OCA", and "temperature-sensitive OCA". All of these patients have little or no pigment at birth, but they develop some pigmentation of the hair and skin during the first and second decades of life. The majority burn without tanning after sun exposure, and some degree of iris translucency is often present. Amela- notic or pigmented melanocytic nevi can develop.
+
+In the temperature-sensitive OCA1B phenotype, patients are born
+with white hair and skin and blue eyes. During puberty, scalp and axil- lary hairs remain white, but arm hairs turn light reddish brown and leg hairs turn dark brown. The abnormal tyrosinase enzyme is temperature-sensitive, losing its activity above 35C. As a result, melanin synthesis does not occur in warmer areas of the body, akin to the phenotype of a Siamese cat, which also has temperature-sensitive tyrosinase activity.
+
+OCA2
+The OCA2 phenotype (in addition to OCA1B) corresponds to  the classic "tyrosinase-positive" OCA. The clinical spectrum of OCA2 is broad, ranging from minimal to moderate pigmentary dilution of the hair, skin, and iris, with little to no ability to tan. The vast majority of individuals of African descent who have "tyrosinase-positive" OCA have OCA2. With time, pigmented melanocytic nevi and  lentigines may develop in sun-exposed areas (Fig. 66.10); the latter can become rather large and darkly colored (Fig. 66.11). Another phenotype called "brown OCA" in African and African-American populations results primarily from mutations in the P gene. In these individuals, the hair and skin are light brown, the irides are gray to tan at birth, and sun- burns are unusual.
+
+The hypopigmentation seen in a subset of patients with Prader-Willi
+syndrome (PWS) and Angelman syndrome (AS) represents a form of OCA2. PWS features hyperphagia, obesity, hypogonadism, and intel- lectual disability, whereas AS is characterized by severe intellectual disability, microcephaly, ataxic movements, and inappropriate laughter. Due to genomic imprinting (see Ch. 54), deletions of the 15q region (which includes the P gene) in the paternal chromosome lead to PWS, while deletions in the maternal chromosome give rise to AS. Approxi- mately 1% of patients with AS or PWS also have OCA2, which occurs when deletion of one copy of the P gene is accompanied by a mutation in the second copy.
+
+OCA3
+The phenotypes of individuals with OCA3 are classified as "rufous" (vast majority of OCA3 patients) and "brown" (more often seen in OCA2). Rufous OCA has been identified in individuals with type III-V skin color, and the phenotype includes a red-bronze skin color, ginger-red hair, and blue or brown irides. Rufous OCA is associated with mutations in TYRP1. A patient with the brown OCA phenotype due to mutations in both copies of TYRP1 has also been described: an African-American child with light brown skin, light brown hair and blue-gray irides.
+
+OCA4
+OCA4 is most common among individuals with albinism who are from Japan (~25% of patients), China (10-20% of patients), or India (~10% of patients), and it accounts for ~5% of albinism in Caucasians91. The phenotype of OCA4 is variable; hair color ranges from white to yellow or brown, and patients may or may not develop increased pigmentation of the skin and hair over time.
+
+OCA5-7
+OCA5 was described in a consanguineous Pakistani family, in which affected individuals had white skin and golden hair. Patients with OCA6 from China and French Guiana were said to have white to light brown skin with some ability to tan, yellow hair at birth that darkened with age, and light brown irides88. OCA7 has been described primarily in patients from the Faroe Islands of Denmark; affected individuals have lighter skin than their relatives and hair color ranging from light yellow to brown89.
+
+
+Ocular albinism type 1 (OA1)
+Ocular albinism type 1 is characterized by a substantial reduction in visual acuity, hypopigmentation of the retina, and the presence of macromelanosomes in the eyes. Affected boys have nystagmus, photo- phobia, and foveal hypoplasia90. Their skin is usually clinically normal without notable pigmentary dilution, although hypopigmented macules have been described in affected individuals who have darkly pigmented skin. Macromelanosomes are evident on  histologic  examination  of the skin.
+
+Pathology
+Although there is a reduction in melanin content, a normal number of melanocytes are present within the epidermis.
+
+Differential diagnosis
+This is outlined in Fig. 66.12. Occasionally, patients with total body vitiligo may be thought to have OCA, but their epidermis lacks melanocytes.
+
+Treatment
+No specific treatment is available. Photoprotection (sunscreens, hats, clothing, sun avoidance) is mandatory in patients who have minimal or no pigmentation, in order to avoid cutaneous photocarcinogenesis, in particular the development of squamous cell carcinomas. The latter are a significant cause of morbidity and mortality, especially in tropical regions (see Fig. 66.10). All patients should undergo ophthalmologic evaluation early in life, with longitudinal care as required.
+  
+Nitisinone, which is FDA approved for treating hereditary tyrosin- emia type 1, represents a potential therapy for OCA. In a mouse model of OCA1B, administration of this agent elevated plasma tyrosine levels and led to increased pigmentation of the hair and eyes92.
+
+Piebaldism
+Piebaldism is an uncommon autosomal dominant disorder character- ized by poliosis and congenital, stable, circumscribed areas of leuko- derma due to an absence of melanocytes within involved sites.
+
+Epidemiology
+The exact prevalence of this condition is not known, but it is estimated to occur in approximately 1 in 40 000 Caucasians.
+
+Pathogenesis
+Piebaldism usually results from mutations in the KIT proto-oncogene93, which encodes a member of the tyrosine kinase family of transmem- brane receptors that is found  on  the  surface  of  melanocytes  (see Fig. 65.2). A functioning KIT receptor is required for the normal development of melanocytes, both immediately before melanoblast migration from the neural crest and postnatally. Heterozygous deletion of SNAI2, which encodes a transcription factor important to melano- cyte development, has been found to cause piebaldism in a few patients.
+
+Clinical features
+The leukoderma has a characteristic distribution pattern that favors the central anterior trunk, mid extremities, central forehead, and midfrontal portion of the scalp; the latter results in a white forelock (Fig. 66.13). The lesions are present at birth and classically spare the posterior midline. The white forelock, which is found in 80-90% of patients, is the most familiar feature of piebaldism. However, its absence does not exclude the diagnosis. All the hairs of the forelock are white, and the underlying skin is also amelanotic. This depig- mented patch is midline in location, triangular or diamond-shaped, and often symmetrical. The apex can reach  the  vertex  posteriorly, and the affected area may extend  to  the  root  of  the  nose  and include the medial third of the eyebrows; involvement of the nose is rare.
+The areas of leukoderma are distinctive and can establish the diag-
+nosis of piebaldism, even in the absence of a white forelock. They are irregular in shape, well-circumscribed, and milk-white in color. Nor- mally pigmented and hyperpigmented macules and patches, ranging from a few millimeters to several centimeters in diameter, are typically apparent within the leukodermic patches (Fig. 66.14). Hyperpigmented patches also occur within uninvolved skin and should not be misinter- preted as evidence of neurofibromatosis 1. Poliosis of the eyebrows and eyelashes is a common finding, as are white hairs within areas of leukoderma. Limited contraction of the areas of involvement over time is occasionally observed, and premature graying of the hair is not uncommon.
+
+Pathology
+By light and electron microscopy, no melanocytes can be identified in either the interfollicular epidermis or the hair follicles of amelanotic skin94. The hyperpigmented macules are characterized by an abun- dance of melanosomes in the melanocytes and keratinocytes.
+
+Differential diagnosis
+The presence of stable amelanotic patches since birth, the characteristic distribution pattern, and the distinctive normally pigmented or hyper- pigmented macules within the areas of leukoderma allow the differen- tiation of piebaldism from vitiligo. The differential diagnosis of circumscribed poliosis of scalp hairs is broad and includes both inher- ited and acquired causes (Table 66.3)95. Of note, an isolated white forelock can also be inherited as an autosomal dominant trait. The diagnosis of piebaldism should prompt the clinician to exclude the possibility of Waardenburg syndrome via an ocular examination and evaluation of hearing. Albinism-deafness syndrome (Ziprkowski- Margolis or Woolf syndrome), a rare X-linked disorder linked to Xq26.3- q27.1, presents with congenital sensorineural deafness and a severe piebald-like phenotype with extensive areas of hypopigmentation96.
+
+Treatment
+Autografting of normal skin or melanocytes into amelanotic areas rep- resents a therapeutic option, but this typically requires multiple proce- dures. Cosmetic products can be used to camouflage affected areas; protection against sunburn is also necessary.
+
+Waardenburg Syndrome
+Waardenburg syndrome (WS) is a rare autosomal dominant or less often autosomal recessive disorder that is characterized by various combina- tions of the following features97: achromia of the hair, skin, or both in the same pattern as piebaldism (see above) congenital deafness partial or total heterochromia irides (including isohypochromia) medial eyebrow hyperplasia (synophrys) a broad nasal root
+
+
+Four clinical subtypes of WS have been described (Table 66.4): WS type I, the classic form (WS1); WS type II, which lacks dystopia canthorum (WS2); WS type III, with associated limb abnormalities (WS3, Klein- Waardenburg syndrome); and WS type IV, with Hirschsprung disease (WS4, Shah-Waardenburg syndrome).
+
+Epidemiology
+The incidence of WS in the Netherlands has been estimated as ~1 in 200 000. In the US, deafness in the setting of WS afflicts 1 in 50 000. WS has been observed in various races and from all regions of the world. Men and women are equally affected.
+
+Pathogenesis
+The facial dysmorphism seen in WS points to abnormal fetal develop- ment. It is therefore not surprising that several of the genes responsible for WS (PAX3, MITF, SNAI2, SOX10; see Table 66.4) encode transcrip- tion factors that, by binding DNA and regulating the expression of other genes, have important functions during embryogenesis (see Fig. 65.4). The neural crest is the source of the connective tissues of the head and neck and intestinal ganglion cells as well as melanoblasts, explaining the manifestations of this neurocristopathy. Presumably, the deafness in WS reflects the role of melanocytes in the development of the inner ear.
+The PAX3 transcription factor that is mutated in WS1 and WS3 activates melanoblasts and other cells to proliferate and then migrate from the neural crest. The abnormalities of the upper extremities characterize WS3 imply that PAX3 also regulates limb development98. Mutations in the microphthalmia-associated transcription factor gene (MITF; expression of which is regulated by PAX3 and SOX10), which encodes a helix-loop-helix/leucine zipper transcription factor, can result in WS2. Of note, a mutation in MITF that affects the nuclear localiza- tion of this protein underlies Tietz syndrome (see below)99. In addition to its critical role in melanocyte development, MITF regulates the expression of a number of melanocyte-specific genes (e.g. tyrosinase; see Ch. 65). Homozygous deletion of SNAI2 (the expression of which is regulated by MITF) has also been identified as a cause of WS2. SNAI2 is a zinc finger transcription factor that has an essential role in the development of neural crest-derived cells, and its complete absence leads to both auditory and pigmentary abnormalities100.
+
+The SOX10 transcription factor plays an essential role in the develop- ment of melanoblasts and ganglion cells, and mutations in this gene can cause WS4 or (if milder) WS2101. WS4 can also be caused by muta- tions in the genes encoding the endothelin B receptor and its endothelin-3 ligand102. The endothelin B receptor is found on melanoblast-ganglion cell precursors in the developing neural crest, and its binding to endothelin-3 is essential for the generation of these cell types (see Fig. 65.3).
+
+Clinical features
+Waardenburg syndrome type 1 (WS1)
+A white forelock, generally similar to that of piebaldism, is the most frequently observed pigmentary abnormality in WS (20-60% of patients). Although the forelock is usually white, patches of red, brown, or black hair have also been described. A few patients have additional areas of poliosis in the frontoparietal or occipital scalp. Premature graying can involve the scalp hair, eyebrows, and body hair, and the onset may be as early as the teens. Areas of leukoderma with an appear- ance, distribution pattern, and natural history similar to piebaldism have been observed in ~15% of patients. The prevalence of hearing impairment ranges from 10% to >35%103; it may be bilateral or unilat- eral and severe or moderate.
+
+Heterochromia irides, partial (sectorial) or complete, is found in >20% of patients (Fig. 66.15). Complete heterochromia irides gives rise to irides of different colors, one being whitish blue. Bilateral involve- ment results in bilateral pale blue eyes (isohypochromia). Hypomela- notic fundi may be present.
+
+The eyebrows may be confluent (synophrys) or show hyperplasia of their medial portions (15-70% of patients). The characteristic dystopia canthorum represents an increase in the distance between the inner canthi, with normal distances between the pupils and between the outer canthi. This is accompanied by a shortening in the length of the palpebral fissure (blepharophimosis) and a lateral displacement of the inferior lacrimal points, which are then situated in front of the cornea. The dystopia is usually symmetric but may be asymmetric. Dystopia canthorum is a characteristic feature of WS1 and WS3.
+
+Waardenburg syndrome type 2 (WS2)
+WS2 differs from WS1 primarily by the absence of dystopia canthorum. In addition, deafness is probably more common in patients with WS2.
+
+Klein-Waardenburg syndrome (WS3)
+WS3 is similar to WS1 but is also associated with upper limb abnor- malities (e.g. hypoplasia, syndactyly).
+
+Shah-Waardenburg syndrome (WS4)
+In WS4, the characteristic findings of WS occur in association with Hirschsprung disease. In many patients, a white forelock, amelanotic macules, and heterochromia irides are present. Deafness is fairly common, but dystopia canthorum and a broad nasal root are uncom- mon. Additional rare manifestations (associated with SOX10 muta- tions) include central nervous system dysfunction, neonatal hypotonia, and arthrogryposis.
+
+Tietz syndrome
+Tietz syndrome is a rare autosomal dominant disorder characterized by diffuse pigmentary dilution of the skin and hair together with deafness and hypoplasia of the eyebrows. Although the eyes are blue, affected individuals do not have photophobia or nystagmus and the fundi are normal. The clinical phenotype is significantly different from WS2, despite being allelic.
+
+Pathology
+As in piebaldism, the areas of involvement in WS have an absence or minimal number of melanocytes when examined by light or electron microscopy.
+
+Diagnosis
+In patients with the complete WS phenotype, the diagnosis is clear. However, there is significant clinical heterogeneity, and in some forme fruste cases the diagnosis can be difficult to establish. Examination of family members can be helpful as they may have other features of the disease.
+
+Treatment
+No specific treatment is available. However, early diagnosis permits appropriate management of the deafness.
+
+Disorders of Melanosome Biogenesis
+Melanosomes are considered members of the lysosome-related organ- elle family, which includes platelet dense granules and the lytic granules of cytotoxic lymphocytes and natural killer (NK) cells. When the bio- genesis of these organelles is disrupted, affected individuals present with the clinical findings of OCA due to their defective melanosomes together with additional symptoms (e.g. bleeding diathesis, immuno- deficiency) that reflect abnormalities in other lysosome-related orgenel- les104,105. These genetic diseases include Hermansky-Pudlak syndrome (HPS) and Chdiak-Higashi syndrome (CHS).
+
+Hermansky-Pudlak syndrome
+To date, ten subtypes of HPS have been identified, each of which is inherited in an autosomal recessive manner (see Table 65.1)106.
+
+Pathogenesis
+Most forms of HPS result from mutations in genes that encode com- ponents of the biogenesis of lysosome-related organelles complexes 1-3
+
+Clinical features
+Compared to unaffected first-degree relatives, patients with HPS have pigmentary dilution of the skin, hair, and eyes. The degree varies, depending upon the underlying mutations and the patient's ethnic origin. With age, an increase in pigmentation is usually seen, but patients still have difficulty tanning. Ocular manifestations of albinism, such as nystagmus and reduced visual acuity, are also present.
+  
+Systemic manifestations due to organelle dysfunction include a bleed- ing tendency (e.g. with tooth extraction or childbirth) as well as inter- stitial pulmonary fibrosis and granulomatous colitis secondary to ceroid lipofuscin accumulation within lysosomes.   Granulomatous   plaques and "knife-cut" ulcers of the vulva, intertriginous areas, and peristomal skin similar to cutaneous Crohn disease have also been described108. Less often, renal failure and cardiomyopathy develop, usually during adulthood. Patients with HPS2 and 10 experience recurrent bacterial infections due to neutropenia and abnormal cytotoxic T-cell function, and HPS10 presents with neurodevelopmental delay and seizures.
+
+Laboratory findings and pathology
+By electron microscopy, macromelanosomes as well as stage I to III (rarely stage IV) melanosomes are seen. Although the platelet count is normal, the bleeding time and platelet function analyzer (PFA)-100 time are prolonged due to platelet dysfunction. Ultrastructurally, there is an absence of dense bodies within platelets. Ceroid deposits, derived from the degradation of lipids and glycoproteins, are found within lysosomes in affected internal organs, including the lungs and gastrointestinal tract. Presumably, this reflects a defect in lysosomal function.
+
+Differential diagnosis
+In addition to the entities in Fig. 66.12, diagnostic considerations may include the autosomal recessive deficiency of the endosomal adaptor p14, which features diffuse pigmentary dilution of the skin and hair, neutropenia, and recurrent pulmonary infections.
+
+Treatment
+The development of progressive pulmonary fibrosis often leads to pre- mature death in patients with HPS, who have an average lifespan of only 30-50 years. Although the antifibrotic agent pirfenidone appeared to slow the progression of pulmonary fibrosis in HPS1 patients in an initial controlled study, a more recent controlled trial found no benefit of this agent in HPS1 patients with mild to moderate pulmonary disease109. Platelet transfusions can be administered prior to surgical procedures in HPS patients.
+
+Cross syndrome
+Cross syndrome is characterized by diffuse pigmentary dilution, silvery hair, ocular anomalies, and neurologic abnormalities (e.g. psychomotor retardation, ataxia and spasticity). A family with overlapping features of HPS and Cross syndrome has raised the possibility that this latter syndrome may be a clinical variant of HPS110.
+
+Chdiak-Higashi syndrome
+Chdiak-Higashi syndrome (CHS) is a rare autosomal recessive disor- der characterized by OCA with a silvery-gray cast to the hair, photo- phobia, nystagmus, and ocular hypopigmentation; an admixture of hyper- and hypopigmentation may be evident in chronically sun- exposed skin, especially in patients with relatively dark constitutive pigmentation. Additional findings include a bleeding diathesis due to diminished function of platelet dense granules, progressive neurologic dysfunction, and severe immunodeficiency due to abnormal lytic gran- ules in lymphocytes, NK cells, and neutrophils (see Ch. 60). A hallmark of the disorder is the presence of giant lysosome-related organelles, including melanosomes, platelet dense granules, and neutrophil gran- ules. Examination of a peripheral blood smear for the latter represents a simple method of screening for this condition. CHS is caused by mutations in the lysosomal trafficking regulator gene (LYST), which encodes a cytoplasmic protein that regulates fission/fusion of lysosome- related organelles111.
+
+Tricho-hepato-enteric syndrome (phenotypic diarrhea of infancy)
+This autosomal recessive disorder caused by mutations in the tetratri- copeptide repeat domain 37 gene (TTC37) can present with diffuse pigmentary dilution of the skin and hair, platelet defects (including abnormal granules) and immunodeficiency. Unlike CHS, it is also characterized by brittle hair with trichorrhexis nodosa, intractable diar- rhea during infancy, primary liver disease, facial dysmorphism, and cardiac defects.
+
+Disorders of Melanosome Transport and/or Transfer
+Identification of the defective proteins in various forms of Griscelli syndrome (GS) has led to better understanding of processes of melano- some transport.
+
+Epidemiology
+Griscelli syndrome is a rare autosomal recessive disorder.
+
+Pathogenesis
+On the basis of molecular genetics (as well as clinical findings), GS has been separated into three entities, GS1, GS2, and GS3 (see Table 65.1). GS1 is due to mutations in the gene that encodes myosin Va112. One end of the myosin Va protein binds the actin cytoskeleton, while the other can bind an organelle, e.g. a melanosome. This linkage plays a key role in the transfer of melanosomes from melanocytes to keratino- cytes. GS2 is caused by mutations in RAB27A113, which  encodes  a small Ras-like GTPase (belonging to the Rab family) that is present in melanosomes. GS3 is due to mutations in MLPH, whose protein product, melanophilin, serves to link myosin Va to Rab27a114 (see Fig. 65.10). Because MLPH is expressed only in melanocytes, the associated phenotype is limited to diffuse pigmentary dilution and silvery hair. On the other hand, expression of MYO5A in neurons explains the associ- ated neurologic abnormalities in GS1, and expression of RAB27A in hematopoietic cells accounts for the immunodeficiency and hemo- phagocytic syndrome observed in GS2. Elejalde syndrome is now thought to likely represent a variant of GS1.
+
+Clinical features
+All three types of GS are characterized by pigmentary dilution of the skin and silvery-gray hair due to pigment clumping within melanocytes. As noted above, patients with GS1 exhibit primarily neurologic impair- ment112, while those with GS2 have immune abnormalities due to defective release of cytotoxic lysosomal contents from hematopoietic cells. A hemophagocytic syndrome can also occur in GS2, with uncon- trolled T-lymphocyte and macrophage activation leading to death113; this process can involve the CNS in a secondary manner.
+
+Treatment
+Hematopoietic stem cell transplantation is indicated for the treatment for GS2 (but not GS1 or GS3).
+
+Tuberous Sclerosis Complex
+Tuberous sclerosis complex (TSC) represents an autosomal dominant disorder characterized by hamartomas in multiple organs, most com- monly the skin, brain, eye, heart, and kidney (see Ch. 61).
+
+Clinical features
+The classic TSC triad of facial angiofibromas ("adenoma sebaceum"), seizures, and intellectual disability is preceded by the appearance of white macules. In one study utilizing Wood's lamp examination, hypomelanotic   macules   were   found   in    64    of    65    patients with TSC.
+
+Hypomelanotic macules are often evident at birth or during the neo- natal period. In fact, all lesions are probably present at birth, but they may be inapparent, particularly in lightly pigmented infants, until the skin is exposed to UV light or the patient is examined with a Wood's lamp. The number of lesions varies from one to >100 per patient. The vast majority of patients have 2-20 hypomelanotic macules, with 50% having <6 and 50% having =6 macules. Lesions may be polygonal, lance-ovate, "thumbprint-like", guttate ("confetti-like"), or (rarely) seg- mental (Fig. 61.13). The most characteristic, but not the most frequent, configuration is lance-ovate (rounded at one end, pointed at the other), which resembles the leaflet of the mountain ash tree, hence the name "ash leaf spot".
+
+Hypomelanotic macules are usually found on the trunk, particularly posteriorly, but they can be found on any cutaneous surface. They occur more commonly on the lower extremities than on the upper extremities or the head and neck; lesions on the scalp are often associated with more lightly pigmented hairs. The long axis of the lance-ovate (ash leaf) macules is predominantly in the cephalocaudal direction on the extremities and in the transverse direction on the trunk. The margins of the lesions are usually smooth but may be irregular. The macules and patches are a dull white color (hypomelanotic), not the "pure- white" color (amelanotic) of vitiligo. As a result, they may be inapparent on casual examination of lightly pigmented skin. Wood's lamp exami- nation reveals a reduction, but not an absence, of pigmentation. The relative size and number of hypomelanotic macules do not change with age, and spontaneous disappearance does not occur. Caf-au-lait macules are seen in some patients.
+
+Pathogenesis
+Circumscribed hypomelanosis in TSC does not appear to result from a reduction in the number of melanocytes but rather from decreased size and poor melanization of melanosomes, which (regardless of racial background) are grouped within the lysosomes of keratinocytes (see Table 65.3). Decreased melanosome size is not a feature of other cir- cumscribed congenital hypomelanoses. TSC is caused by mutations in two tumor suppressor genes, TSC1 and TSC2, which encode the hamar- tin and tuberin proteins, respectively (see Ch. 61). These proteins associate physically in vivo, functioning together to negatively regulate mammalian target of rapamycin (mTOR) signaling.
+
+Diagnosis
+If an infant has three or more hypopigmented macules, a diagnosis of TSC should be considered and (if there is no history of seizures) echo- cardiography performed as an initial investigation (see Fig. 61.20). The presence of three or more hypomelanotic macules, especially if lance- ovate in shape, raises the possibility of TSC. The combination of white macules and seizures increases the likelihood of TSC. Although the presence of only one or two hypopigmented macules or patches in an otherwise healthy infant does not exclude TSC, the diagnosis of nevus depigmentosus is much more likely.
+  
+It is usually fairly easy to distinguish vitiligo, given its characteristic distribution pattern and pure-white color. Postinflammatory hypopig- mentation is typically easily excluded by the lack of preceding or con- current inflammatory or trauma-induced lesions. Nevus anemicus is readily distinguished by its "disappearance" upon diascopy; in addition, vigorous rubbing or application of ice produces erythema in the hypopig- mented lesions of TSC significantly more than in nevus anemicus. Hypomelanotic macules may be observed in patients with ataxia telan- giectasia (likely reflecting "pigmentary mosaicism"). Westerhof syn- drome is characterized by hypo- and hyperpigmented macules, possibly in association with growth retardation; autosomal dominant inheri- tance has been proposed, but the etiology is not known. Familial pro- gressive hyperpigmentation with or without hypopigmentation, which also has autosomal dominant inheritance and features lesions ranging from small macules to large patches, is caused by heterozygous activat- ing mutations in the KIT ligand gene (KITLG)115.
+Rarely, the hypopigmentation in TSC has a segmental pattern, for
+which the differential diagnosis includes segmental vitiligo (which pro- gresses   over   a   few   months   to   2   years   and   is   amelanotic) and "Pigmentary Mosaicism": Linear Nevoid Hypopigmentation, Hypomelanosis of Ito, Segmental Pigmentation Disorder, and Nevus Depigmentosus
+
+Hypopigmentation along the lines of Blaschko, referred to as linear nevoid hypopigmentation, reflects mosaicism characterized by a clone of skin cells with a decreased ability to make pigment ("pigmentary mosaicism"; see Ch. 62). The term hypomelanosis of Ito (HI), which has been used in studies based in pediatric neurology centers, should be reserved for patients with linear nevoid hypopigmentation together with extracutaneous findings due to the presence of the abnormal clone in tissues other than the skin. Although cytogenetic data are less substantial, "segmental pigmentation disorder" and nevus depigmen- tosus are also considered to represent manifestations of cutaneous mosaicism116.
+
+Clinical features
+Linear nevoid hypopigmentation may be apparent at birth or become evident during infancy or early childhood. The characteristic pattern of streaks and whorls can occur unilaterally or bilaterally (Fig. 66.16)116. Abnormalities of the CNS, eye, or musculoskeletal system are found in ~15-30% of patients with linear nevoid hypopigmentation who present to a pediatric dermatologist at a tertiary referral center.
+  
+Nevus depigmentosus occurs in 1 in 50-75 individuals. The name is a bit of a misnomer, as the areas of leukoderma are actu- ally hypomelanotic  rather  than  amelanotic.  Most  lesions  measure a few centimeters in diameter and have irregular but well-defined borders, often breaking apart into smaller macules at the periphery (Fig. 66.17). A block-like variant of nevus depigmentosus, also referred to as the hypopigmented form of the "segmental pigmentation disor- der", typically features midline demarcation and less distinct lateral borders117.
+
+
+Phylloid   hypomelanosis   is   a   distinctive   pattern   of   hypomelano- sis that occurs in patients with mosaic forms of trisomy (or tetra- somy) 13 or 13q. The hypomelanosis consists of: (1) round or oval lesions; (2) large asymmetric areas reminiscent of the leaves of a begonia; and (3) pear-shaped or oblong macules. Additional features may include telangiectatic macules, hypertrichosis, CNS defects (especially absence of the corpus callosum), conductive hearing loss, choroidal and retinal colobomas, craniofacial anomalies, and digital malformations118.
+
+Pathology
+The number of melanocytes in affected skin may be normal or decreased119. A wide variety of cytogenetic abnormalities in peripheral blood lymphocytes and/or lesional fibroblasts as well as mosaic MTOR mutations have been detected in patients with linear nevoid hypopig- mentation (see Ch. 62).
+
+Diagnosis
+The differential diagnosis of linear leukoderma is presented in Fig.
+66.18 and Table 66.6. Diagnostic considerations for the common type of nevus depigmentosus are discussed above (see TSC).
+
+
+NUTRITIONAL HYPOMELANOSIS
+
+In kwashiorkor, which is due to severe protein deficiency, the skin initially becomes erythematous to red-brown in color with marked desquamation (see Ch. 51). Both hypomelanosis and patchy post- inflammatory hypermelanosis can be seen, with striking pigmentary changes in florid cases. The hypomelanosis usually begins on the face. The hair is dry and lusterless, and it may become light red-brown in color. Upon resumption of dietary protein intake, the skin repigments slowly. Diffuse pigmentary dilution due to deficiencies of copper or selenium have also been reported (see Fig. 66.12).
+
+HYPOMELANOSIS SECONDARY TO CUTANEOUS INFLAMMATION
+
+Epidemiology
+Postinflammatory hypomelanosis (PIH) represents a very common skin disorder that is more obvious in darkly pigmented or tanned individu- als. A large number of dermatoses can lead to PIH120, including psoria- sis, seborrheic dermatitis, atopic dermatitis, lichen striatus, pityriasis lichenoides chronica, and lupus erythematosus (Fig. 66.19); mycosis fungoides, sarcoidosis, and lichen sclerosus can also present as hypopig- mented lesions. In some patients, repeated examinations are required to identify primary inflammatory lesions.
+
+Pathogenesis
+The various steps that determine skin color, including melanogenesis, are controlled by multiple factors (e.g. growth factors, cytokines) that exert their actions directly or indirectly on keratinocytes and melano- cytes. Dysregulation of these processes can induce abnormal melanocyte-keratinocyte interactions. Cutaneous inflammation, for example, is able to alter melanosome biogenesis, melanin production, melanosome transport, and especially transfer of melanosomes to keratinocytes. Severe local inflammation can lead to a loss of functional melanocytes or even melanocyte death.
+
+Clinical features
+Hypomelanosis usually follows or coexists with inflammatory lesions, but, occasionally, only hypopigmented lesions are seen, e.g. in sarcoid- osis or mycosis fungoides. PIH, either localized or widespread, is usually associated with a decrease, but not absence, of pigment. Complete depig- mentation is most commonly seen in the setting of severe atopic derma- titis and discoid lupus erythematosus (see Fig. 66.19E,G). Whether this lack of pigment represents koebnerization of vitiligo into areas of inflam- mation versus the consequence of severe inflammation is debatable.
+
+Pathology
+In certain dermatoses (e.g. sarcoidosis, mycosis fungoides), histologic examination of hypopigmented lesions can aid in establishing the diag- nosis, whereas in others (e.g. pityriasis lichenoides chronica) the findings are less specific and the diagnosis is made primarily on a clini- cal basis.
+
+Treatment
+Once the underlying inflammatory disorder is effectively treated, PIH usually gradually resolves. Sun exposure or UVB phototherapy may be helpful, although tanning can also accentuate the contrast with normal skin. In amelanotic lesions with complete loss of melanocytes, epider- mal or melanocyte grafting may be considered (see above).
+
+Pityriasis Alba
+Pityriasis alba is a very common condition, consisting of slightly scaly, round to oval, ill-defined macules and patches with mild to moderate hypopigmentation (see Ch. 12). Although it occurs in all races, pityria- sis alba is more noticeable in darkly pigmented individuals. It is gener- ally a disorder of childhood and adolescence, and it becomes more apparent during the summer months when the surrounding skin is tanned. The lesions usually vary in size from 0.5 to 3 cm, but larger lesions can also occur.
+  The earliest lesions may be pink in color, but after a few weeks, the erythema fades and the cutaneous surface  assumes  a  whitish, dry, powdery appearance, sometimes with a slightly raised, pinkish border. The face, especially the malar region, is the most frequent site of involvement. Occasionally, lesions of pityriasis alba  are  seen  on the neck, trunk, and extremities. This dermatosis is generally asymp- tomatic, but some patients complain of itching and burning. With Wood's lamp examination, more lesions may become apparent and a decrease, but not absence, of pigment is observed. Although the patches of hypomelanosis often remain stationary and unchanged for several years, they usually (but not always) clear spontaneously after puberty.
+Light and electron microscopy reveal reduced numbers of active mela-
+nocytes and a decrease in the number and size of melanosomes in the affected skin.
+  
+The differential diagnosis includes tinea versicolor, vitiligo (see above), "eruptive hypomelanosis" associated with viral symptoms121, and other forms of PIH, in particular pityriasis lichenoides chronica when the lesions are extrafacial.
+  Topical hydrocortisone may be helpful, but emollients seem to be equally effective.
+
+Sarcoidosis
+The true incidence of leukoderma in sarcoidosis is unknown. In one series, hypopigmentation was observed in 6% of sarcoidosis patients. The female-to-male ratio is ~2 : 1. Lesions are described as circum- scribed or poorly marginated papules or plaques that vary from one to a few centimeters in diameter, and they may or may not be indurated. In addition, dermal nodules surrounded by hypomelanosis may be seen122. The lesions appear most commonly on the extremities, are asymptomatic, and have no other secondary changes. They appear to carry no specific prognostic significance, and spontaneous repigmenta- tion may occur.
+Histologically, non-caseating granulomas are seen in the dermis. By electron microscopy, some melanocytes appear normal, while others have a vacuolated appearance; the number of melanosomes within keratinocytes is decreased. The clinical and histologic features of leprosy differ enough to allow a distinction.
+
+Hypopigmented Mycosis Fungoides
+Hypomelanotic mycosis fungoides (MF) is a   variant   of   early-stage MF that is most frequently observed in darkly pigmented individuals (Fig. 66.20), probably because it is more clinically obvious in darker skin. The hypomelanotic lesions occur on the trunk or extremities and may be pruritic. Erythema and slight infiltration are usually, but not always, present. Although the most common age range at the time of diagnosis is 30-40 years, the hypopigmented variant accounts for a higher proportion (~25-50%) of MF in children and adoles- cents. Successful treatment (e.g. with photo[chemo]therapy or topical mechlorethamine [nitrogen mustard]) usually results in repigmenta- tion. Routine histology shows the typical features of MF and elec- tron microscopy demonstrates decreased numbers of melanosomes within epidermal keratinocytes. Numerous morphologically normal melanosomes are present in melanocytes. These observations suggest a defect in melanosomal transfer, a change seen in most postinflam- matory hypomelanoses.
+
+Systemic Sclerosis (Scleroderma) and Lichen Sclerosus
+Patients with systemic sclerosis can develop diffuse hypermelanosis123 with accentuation in sun-exposed sites, a mixture of hypo- and hyper- pigmentation in areas of chronic sclerosis (e.g. the hands), and a charac- teristic leukoderma in both sclerotic and non-sclerotic skin. The latter is characterized by circumscribed areas of complete pigment loss except for perifollicular and supravenous retention of pigment (Fig. 66.21). When this peculiar leukoderma is seen, systemic sclerosis must be excluded, as it is only known to occur in two other settings: overlap syn- dromes (i.e. those that include systemic sclerosis) and scleromyxedema.
+
+The origin and pathogenesis of the pigmentary disturbances in systemic sclerosis are unknown.
+Genital and extragenital lesions of lichen sclerosus are often hypomel- anotic. Additional changes include epidermal atrophy, follicular plug- ging and, in the anogenital region, purpura. Occasionally, extragenital lichen sclerosus presents as a guttate leukoderma (see Table 66.5; Fig. 66.22). Electron microscopy reveals a loss of pigment cells or decreased number of melanocytes with degenerative changes.
+
+Lupus Erythematosus
+In discoid lupus erythematosus (DLE), hypomelanosis or amelanosis is almost always associated with cutaneous atrophy and scarring (see Fig. 66.19G). Hypomelanosis favors the center of the lesions, and it is often accompanied by a rim of hyperpigmentation. In chronic scarring DLE, the pigmentary changes are persistent. Histologically, in addition to a decreased number of epidermal melanocytes, changes that help to establish the diagnosis include epidermal atrophy, vacuolar degenera- tion of the basal layer, a variably dense inflammatory infiltrate rich in CD123+ plasmacytoid dendritic cells, pigmentary incontinence, and fibrosis. Hypomelanosis is also frequently seen in the center of annular lesions of subacute cutaneous LE, but this is usually reversible.
+
+INFECTIOUS AND PARASITIC HYPOMELANOSIS
+
+
+Tinea (Pityriasis) Versicolor
+The primary lesion is round to oval, hypomelanotic, and usually mea- sures several millimeters to 1-3 cm in diameter (Fig. 66.23). Within the areas of involvement, the lesions are often coalescent centrally. Associated fine scale may be obvious or only apparent upon scratching or stretching the skin. The distribution is usually symmetric and favors the upper trunk and shoulders; lesions sometimes develop on the lower trunk, neck, and face (see Ch. 77). While the contrast between the hypomelanotic infected skin and the surrounding normal skin is strik- ing in darkly pigmented patients, or following a tan in lightly pigmented patients, Wood's lamp examination may be required to locate all the lesions.
+  
+In the hypopigmented skin, there is a decreased density of mela- nosomes within keratinocytes, but no change in the melanocyte density. Abnormal melanosome production, decreased melanin syn- thesis, and a partial block in melanosome transfer to keratinocytes have all been suggested as underlying defects. Azelaic acid, a com- petitive inhibitor of tyrosinase produced by Malassezia furfur, may play a role in the decreased melanin synthesis. Although the differ- ential diagnosis may include postinflammatory  hypopigmentation (e.g. secondary to parapsoriasis), progressive macular hypomelanosis, and early vitiligo, the diagnosis of tinea versicolor is easily confirmed by examination of the associated scale in a potassium hydroxide preparation.
+Hypomelanosis without scaling may remain for months after spontaneous or treatment-induced eradication of the hyphal form of the organism.
+
+Leprosy (Hansen Disease)
+Hypomelanotic macules may be the earliest expression of lepromatous leprosy. The lesions are usually small, multiple, subtle, and ill-defined; they may be difficult to recognize, particularly in lightly pigmented skin. The face, extremities, and buttocks are favored, and the warmer parts of the body are usually spared. There is little or no anhidrosis or loss of sensation. Later, plaques, nodules or diffuse infiltration of the skin appear (see Ch. 75).
+  
+The hypopigmented patches of tuberculoid leprosy are much different from those of lepromatous leprosy. Tuberculoid lesions have discrete edges and can be quite large, up to 30 cm in diameter (Fig. 66.24). A raised border, uniform infiltration, or a characteristic pebbled appearance may be observed. The surface can be slightly scaly, dry, or minimally atrophic. The lesions are asymmetrically distributed on the posterolat- eral aspects of the extremities, back, buttocks, and face. There is associ- ated alopecia, anhidrosis, and loss of tactile and heat sensations.
+  
+In borderline (dimorphous) leprosy, plaques and annular lesions are more common than hypomelanotic macules; the latter, if present, have ill-defined borders. A "Swiss cheese" appearance with erythematous annular lesions and hypomelanotic areas, all bound by vague outer borders, characterizes this form of leprosy. In indeterminate leprosy, the macules are usually hypomelanotic, but they can also be erythe- matous; hypoesthesia may be present. They are asymmetrically distrib- uted and favor exposed sites.
+  
+The mechanism of hypopigmentation in leprosy is unknown, and there are no histologic or ultrastructural alterations in the melanocytes. Treatment usually, but not always, results in repigmentation of the hypomelanotic macules.
+
+Treponematoses
+In pinta, hypomelanotic lesions occur during the late phase of the disease, a few months to several years after the appearance of secondary lesions. Irregular, vitiligo-like areas of depigmentation favor skin overly- ing bony prominences and are often surrounded by brown to blue-gray hyperpigmentation. Atrophy, xerosis, and alopecia may be evident. Longstanding amelanotic lesions do not typically repigment.
+  
+Hypomelanosis occasionally develops in untreated tertiary yaws. Symmetric hypomelanotic macules enlarge until an entire area is affected. The most common sites are the dorsal aspects of the wrists and hands and over the metacarpophalangeal and interphalangeal joints.
+  
+Hypomelanosis may occur in the late stages of bejel (endemic syphi- lis). Hypomelanotic macules have well-defined borders and may be admixed with pigmented macules. The lesions are usually symmetri- cally distributed on the extremities, genitalia, areolae, and trunk. Early penicillin treatment results in satisfactory repigmentation.
+  
+In secondary syphilis, hypomelanosis is an occasional finding that is called "leukoderma syphiliticum". In the "necklace of Venus", small (1-2 mm) hypomelanotic macules are scattered within a larger area of hyperpigmentation on the neck. Hypopigmentation may also develop at sites of previously inflamed lesions, which favor the neck, proximal extremities, upper trunk, abdomen, axillae, and groin. Leukoderma syphiliticum regresses with treatment and usually disappears com- pletely within several months to a year.
+
+Onchocerciasis
+Initially, small (punctate), yellowish hypomelanotic macules appear on the middle third of the shin medial to the tibial crest. Later, the macules enlarge, coalesce, and undergo progressive lightening until there is amelanosis (Fig. 66.25). Pigmented macules persist within the hypopigmented patches, hence the designation "leopard  skin"  (see Ch. 83). Other sites of involvement may include the lateral aspects of the legs, groin, and skin  overlying  the  bony  prominences  of the pelvis.
+
+Post-Kala-Azar Dermal Leishmaniasis
+Small hypomelanotic macules in a symmetric distribution that favors the upper trunk and arms constitute the prenodular stage of the disease. The lesions become elevated over a period of months to years. Total repigmentation following systemic treatment with antimonials is almost impossible to achieve.
+
+Herpes Zoster
+Hypo- or depigmentation is sometimes seen in the sites of previous herpes zoster. Amelanosis can result from melanocyte destruction during the inflammatory and healing process, which may also lead to atrophy and fibrosis.
+
+
+Halo Nevus
+The halo nevus phenomenon most often occurs in children and young adults with multiple melanocytic nevi (see Ch. 112); it is unusual in adults over 40 years of age. A central melanocytic nevus is surrounded by a round or oval amelanotic annulus. The lesions are asymptomatic and the most common site is the trunk, particularly the back. There are four stages in halo nevus evolution, which occurs over a period of months to =10 years: (1) appearance of the halo; (2) loss of pigment within the central nevus; (3) disappearance of the nevus; and (4) disap- pearance of the halo. Patients often develop multiple halo nevi and some have associated vitiligo. The exact relationship between halo nevi and vitiligo has been the subject of controversy.
+  Both nevus cells and epidermal melanocytes in the surrounding skin are destroyed, as demonstrated by histologic and ultrastructural studies. Both CD4+ and CD8+ T   cells   infiltrate   halo   nevi.   Periph- eral T cells from a patient with halo nevi were shown to lyse in vitro melanocytes obtained   from   a   normal   nevus,   implicating   T cells in the pathogenesis of halo nevi. Oligoclonality of the T-cell response in patients with halo nevi further suggests that the destruc- tion of melanocytes could represent the lysis of a distinctive cell type through an immune process mediated by a limited number of T-cell clones124.
+  
+The clinical diagnosis of halo nevus is usually fairly straightforward, but Wood's lamp examination may occasionally be required to detect the halo. The halo phenomenon can occur with a variety of types of melanocytic nevi (e.g. neurotized, blue, congenital) and melanoma. Careful examination of the central lesion is therefore required. Typical halo nevi require no treatment other than reassurance.
+  
+Increasing evidence suggests that melanoma-associated, vitiligo-like leukoderma results from an immune reaction directed against antigenic determinants shared by normal and malignant melanocytes. Although antibodies to pigment cells are commonly found in patients with melanoma, growing evidence points towards an important role for cel- lular immune responses (Fig. 66.26). Vitiligo-like lesions have been observed in melanoma patients following successful immunotherapy with anti-cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4; e.g. ipilimumab; Fig. 66.27) or anti-programmed cell death-1 (PD-1; e.g. pembrolizumab, nivolumab) antibodies; IL-2; tumor-infiltrating lym- phocytes specific for tyrosinase-, gp100- or TYRP1-derived antigens; or peptide vaccines based upon these antigens. In addition, cytotoxic T-lymphocyte clones derived from melanoma patients efficiently lyse cultured human melanocytes.
+
+Clonally expanded T cells with identical Vp regions have been identi-
+fied in a primary melanoma and a depigmented halo surrounding the tumor, again suggesting a role for a T-cell-mediated antitumoral response in the development of melanoma-associated, vitiligo-like leu- koderma. Melan-A/MART-1-specific CD8+ T cells have been identified in inflammatory hypomelanotic skin lesions following the infusion of Melan-A/MART-1-specific CD8+ T-cell clones in a patient with meta- static melanoma125. Thus, in melanoma patients, "vitiligo" may be a visible effect of a spontaneous or therapy-induced antitumoral immune response against melanocyte differentiation antigens (see Ch. 113). In addition to occasionally preceding spontaneous resolution of metastatic melanoma, the development of vitiligo-like leukoderma is associated with a survival benefit in patients receiving immunotherapy for meta- static melanoma126.
+
+CHEMICAL AND PHARMACOLOGIC HYPOMELANOSIS
+A large number of chemical and pharmacologic agents can cause hypomelanosis of skin and hair127,128. The three major groups of depig- menting compounds (Table 66.7) are:
+phenols/catechols sulfhydryls miscellaneous.
+
+Hydroquinone (HQ) and its derivatives (MMEH, MBEH) are the most widely used "bleaching" agents. HQ induces a reversible hypopigmenta- tion of the skin, and it is used to treat disorders such as melasma. In contrast, depigmentation from MBEH is often permanent and occurs not only in the areas of application but also in distant sites; as a result, its only indication is as depigmentation therapy for widespread vitiligo (see above). Of note, MMEH and MBEH were identified as depigment- ing agents after outbreaks of occupational leukoderma in workers exposed to these chemicals in rubber products.
+  
+Hypomelanosis can follow the use of either topical or intralesional corticosteroids, particularly in darkly pigmented individuals. Potent topical corticosteroids are unfortunately widely used as lightening agents in many areas of the world, especially Africa and Asia. In most cases, the hypomelanosis is incomplete, but the risk of significant side effects (e.g. acne, atrophy, striae) is high. Hypomelanosis induced by intralesional or intra-articular corticosteroids can be stellate or linear, has an irregular outline, and is often ill-defined (Fig. 66.28). The cuta- neous hypopigmentation appears several weeks to months after the injection. In most instances, repigmentation occurs within 1 year after discontinuation of the injections.
+  
+In any patient, particularly adults, presenting with new-onset "viti- ligo" (Fig. 66.29), a detailed history to detect exposure to known depig- menting agents or use of drugs (e.g. imiquimod) implicated in depigmentation is mandatory (see Table 66.7). Patch testing can be useful for confirming the diagnosis of chemical leukodermas, but delayed readings are essential (e.g. at 2 weeks, then again at 4-6 weeks). Spon- taneous repigmentation may occur following avoidance of the causative agent, but treatment, as for vitiligo, is usually required (see above).
+  
+In chemical leukoderma induced by HQ and its derivatives, melano- cytes are decreased in number or absent. Other depigmenting agents inhibit tyrosinase (thus blocking melanogenesis) or prevent melano- some transfer.
+
+  
+Patients treated with imatinib mesylate have been noted to develop various forms of hypomelanosis, including generalized lightening of the skin, hypopigmentation of the distal digits, difficulty in maintain- ing a suntan, and progression of vitiligo. These changes appear to be reversible and potentially dose-dependent, and they have been observed more commonly in darkly pigmented individuals129.
+Imatinib mesylate is a tyrosine kinase inhibitor that targets  the bcr-abl fusion protein that is characteristic of chronic myelogenous leukemia; it also inhibits three other tyrosine kinases - platelet- derived growth factor (PDGF) receptor-a, PDGF receptor-, and the KIT receptor. Imatinib mesylate-induced inhibition of the KIT recep- tor, which is involved in melanogenesis and melanocyte homeostasis, is the most likely explanation for the hypopigmentation. Loss of hair color has been noted in patients receiving sunitinib malate, another inhibitor of tyrosine kinase receptors (including the KIT receptor). Sunitinib-induced hair depigmentation appears to be reversible with cessation of treatment130.
+
+HYPOMELANOSIS FROM PHYSICAL AGENTS
+Various types of physical injuries can induce cutaneous hypomelanosis or amelanosis, including thermal burns, freezing, UV radiation, lasers, ionizing radiation, and physical trauma from surgical procedures. The combination of the history of an insult, the shape of the hypopigmenta- tion, and associated findings usually makes the diagnosis relatively straightforward.
+Repigmentation is based on a host of factors, including the type and depth of the insult or injury, the anatomic location, and the presence of hair follicles and pigmented hairs.
+
+MISCELLANEOUS
+IGH occurs in all races and skin types, but it is more striking in darkly pigmented skin. In Caucasians, IGH may favor those with brown eyes and brown hair. An apparent female pre- dominance is probably the result of heightened perception of a cosmetic problem.
+  
+The typical IGH lesion is a circumscribed, sharply defined, asymp- tomatic porcelain white macule131. The lesions are usually 0.5-6 mm in diameter and often delineated by the skin furrows; occasionally, lesions are up to 2.5 cm in size (Fig. 66.30). Once present, they do not change in size or coalesce; their surface is smooth but not atrophic. Spontaneous repigmentation has not been reported. Hairs within the lesions usually retain their pigment. In most patients, there are mul- tiple lesions on the extensor forearms and shins; the remainder of the extremities can be affected, but rarely the face.
+  
+The most consistent histologic features of IGH are a flattening of the dermal-epidermal junction, moderate to marked reduction or focal absence of melanin granules in the basal and suprabasal layers, and a basket-weave hyperkeratosis. There is a moderate to relatively marked reduction in the number of DOPA-positive epidermal melanocytes (10-50% compared with normal skin), but these cells are never totally absent. At the ultrastructural level, some melanocytes have normal melanogenic activity, while others lack mature melanosomes. The keratinocytes show marked variation in their content of melanin, which may be absent or markedly decreased.
+  
+The diagnosis of IGH is usually made clinically; the differential diagnosis of guttate leukoderma includes achromic verrucae planae, pityriasis lichenoides chronica, disseminated hypopigmented keratoses that follow PUVA therapy, and clear cell papulosis (Fig. 66.31; see Table 66.5). Although lesions of atrophie blanche favor the distal shins and ankles, these porcelain white scars are usually depressed and encircled by papular telangiectasias. The cause of IGH is unknown, but sun exposure probably plays a role.
+  
+Cryotherapy with liquid nitrogen has been described as a possible therapy for IGH. As sunlight is most likely a precipitating factor, use of sunscreens and physical barriers should be recommended.
+Vagabond's Leukomelanoderma
+
+This skin disorder occurs in older persons in whom dietary deficiency is combined with lack of cleanliness and heavy infestation with Pedicu- lus humanus var. corporis. These patients have small macules of hypomelanosis (related to scratching) superimposed on a background of diffuse hypermelanosis, especially of the wrists, axillae, groin, medial thighs, and posterior neck.
+
+Progressive Macular Hypomelanosis
+Progressive macular hypomelanosis (PMH) is a fairly common skin disorder, observed more frequently in young women with darkly pig- mented skin who originate from or reside in tropical climates. The condition is characterized by poorly defined, nummular, non-scaly hypopigmented macules and small patches on the trunk, with rare extension onto the proximal extremities or head and neck region; confluence of lesions may occur centrally (Fig. 66.32)132. Another variant of PMH features large circular lesions. There is no associated pruritus or preceding inflammation, and patients are sometimes misdiagnosed as having residual hypopigmentation related to tinea versicolor. Histologically, there is decreased pigment in the epidermis and a normal-appearing dermis. Electron microscopy demonstrates a shift from large melanosomes in uninvolved skin to small aggregated membrane-bound melanosomes in hypopigmented skin. Proliferation of Propionibacterium acnes or another Propionibacterium spp. within hair follicles is thought to play a role in PMH pathogenesis133. Treat- ment regimens include various combinations of topical 1% clindamy- cin, 5% benzoyl peroxide, and phototherapy with NB-UVB or UVA (e.g. three times weekly for 12 weeks).
+
+Hair Hypomelanosis
+Poliosis refers to a circumscribed hypomelanosis of hair (see Table 66.3), whereas canities implies a more generalized depigmentation of hair. Graying of hair, localized or generalized, is characterized by an admixture of normally pigmented, hypomelanotic, and amelanotic hairs. Whitening of hair is the endpoint of canities and graying of hair. The graying and whitening of human hair that occurs with aging is due to defective maintenance of melanocyte stem cells134,135.
+  
+A number of genetic disorders are associated with premature graying of hair (Table 66.8), while there are both hereditary and acquired causes of diffuse hypomelanosis of hair (Table 66.9). In Chdiak-Higashi and Griscelli syndromes, the scalp hairs have a silvery hue due to pigment clumping.
+
+Leukodermas Without Hypomelanosis
+Woronoff's ring
+Woronoff's ring is a blanched halo of fairly uniform width surrounding psoriatic lesions after phototherapy or topical treatments. There is an element of vasoconstriction, but it is uncertain whether there is any decrease in pigmentation.
+
+Nevus anemicus
+Nevus anemicus presents as a pale area of variable size (often 3-6 cm) with an irregular, "broken up" outline (see Ch. 106). It is usually uni- lateral and located on the trunk. Present since birth, the lesion is most commonly detected later in life, and it is most noticeable when there is surrounding vasodilation due to heat or emotional stress. On dias- copy, the lesion becomes indistinguishable from surrounding skin. His- tologically, there are no abnormalities in the melanocytes or melanin content. Nevus anemicus is caused by decreased blood flow through the capillaries in the dermal papillae, due to a localized hypersensitivity of the blood vessels to catecholamines. Approximately 30-60% of patients with neurofibromatosis type 1 (NF1) have a nevus anemicus, and its use as a diagnostic criterion has been suggested.
+
+Cutaneous edema and anemia
+Cutaneous edema and anemia also produce lightening of the skin and mucous membranes. In the case of anemia, it is due to decreased hemoglobin levels in the skin.
+Angiospastic macules (Bier spots)
+Pale macules, usually 3-6 mm in diameter, are seen primarily on the extremities and are often more noticeable on the legs (see Ch. 106).
+
+The lesions are due to localized vasoconstriction and occur most often in young women. Their appearance may be induced by a dependent position or placing a tourniquet on the limb. Prominent or widespread angiospastic macules have been described in association with preg- nancy, lymphedema, cryoglobulinemia, tuberous sclerosis, and aortic hypoplasia.
+
+
+
+REFERENCES
+1. Ortonne JP, Mosher DB, Fitzpatrick TB. Piebaldism. In: Vitiligo and Other Hypomelanoses of Hair and Skin. New York: Plenum; 1983. p. 310-37.
+2. Passeron T, Ortonne JP. Physiopathology and genetics of vitiligo. J Autoimmun 2005;25(Suppl.):63-8.
+3. Zhang XJ, Chen JJ, Liu JB. The genetic concept of vitiligo. J Dermatol Sci 2005;39:137-46.
+4. Alkhateeb A, Fain PR, Thody A, et al. Epidemiology of vitiligo and associated autoimmune diseases in Caucasian probands and their families. Pigment Cell Res 2003;16:208-14.
+5. Spritz RA. The genetics of generalized vitiligo: autoimmune pathways and an inverse relationship with malignant melanoma. Genome Med 2010;2:78.
+6. Shen C, Gao J, Sheng Y, et al. Genetic susceptibility to vitiligo: GWAS approaches for identifying vitiligo susceptibility genes and loci. Front Genet 2016;7:3.
+7. Jin Y, Andersen G, Yorgov D, et al. Genome-wide association studies of autoimmune vitiligo identify 23 new risk loci and highlight key pathways and regulatory variants. Nat Genet 2016;48:1418-24.
+8. Ratsep R, Kingo K, Karelson M, et al. Gene expression study of IL10 family genes in vitiligo skin biopsies, peripheral blood mononuclear cells and sera. Br J Dermatol 2008;159:1275-81.
+9. Gregg RK, Nichols L, Chen Y, et al. Mechanisms of spatial and temporal development of autoimmune vitiligo in tyrosinase-specific TCR transgenic mice. J Immunol 2010;184:1909-17.
+10. Klarquist J, Denman CJ, Hernandez C, et al. Reduced skin homing by functional Treg in vitiligo. Pigment Cell Melanoma Res 2010;23:276-86.
+11. Lili Y, Yi W, Ji Y, et al. Global activation of CD8(+) cytotoxic T lymphocytes correlates with an impairment in regulatory T cells in patients with generalized vitiligo. PLoS ONE 2012;7:e37513.
+12. Kotobuki Y, Tanemura A, Yang L, et al. Dysregulation of melanocyte function by Th17-related cytokines: significance of Th17 cell infiltration in autoimmune vitiligo vulgaris. Pigment Cell Melanoma Res 2012;25:219-30.
+12a. Richmond JM, Bangari DS, Essien KI, et al.
+Keratinocyte-derived chemokines orchestrate T-cell positioning in the epidermis during vitiligo and may serve as biomarkers of disease. J Invest Dermatol 2017;137:350-8.
+12b. Richmond JM, Masterjohn E, Chu R, et al.
+CXCR3 depleting antibodies prevent and reverse vitiligo in mice. J Invest Dermatol 2017;137: 982-5.
+13. Mosenson JA, Zloza A, Nieland JD, et al. Mutant HSP70 reverses autoimmune depigmentation in vitiligo. Sci Transl Med 2013;5:174ra28.
+14. Rashighi M, Agarwal P, Richmond JM, et al. CXCL10 is critical for the progression and maintenance of depigmentation in a mouse model of vitiligo. Sci Transl Med 2014;6:223ra23.
+15. Maresca V, Roccella M, Roccella F, et al. Increased sensitivity to peroxidative agents as a possible pathogenic factor of melanocyte damage in vitiligo. J Invest Dermatol 1997;109:310-13.
+16. Bellei B, Pitisci A, Ottaviani M, et al. Vitiligo: a possible model of degenerative diseases. PLoS ONE 2013;8:e59782.
+17. Schallreuter KU, Salem MA, Holtz S, Panske A. Basic evidence for epidermal H2O2/ONOO(-)-mediated oxidation/nitration in segmental vitiligo is supported by repigmentation of skin and eyelashes after reduction of epidermal H2O2 with topical
+
+Online only content
+
+
+
+eFig. 66.1 Vitiligo. Complete loss of pigment of the glans penis. Note the lack of any secondary changes. Courtesy, Jean L Bolognia, MD.
+
+eFig. 66.2 Inflammatory vitiligo. There is a figurate outline to the inflammatory border, which is sometimes misdiagnosed as tinea corporis.
+
+  
+eFig. 66.3 Piebaldism. A White forelock and characteristic triangular amelanotic patch on the mid-forehead. B Mother and son with the characteristic involvement of the mid extremities. C Amelanotic patch on the upper calf. In all of these examples, note the normally pigmented macules of varying sizes within the leukoderma, especially at the periphery. A, Courtesy, Diane Davidson, MD; B, Courtesy, Jean L Bolognia, MD; C, Courtesy, Julie V Schaffer, MD.	
+
+eFig. 66.4 Linear nevoid hypopigmentation. Note the S-shaped pattern of the hypopigmented streaks along the lines of Blaschko on the flank and abdomen.
+
+eFig. 66.5 Lichen striatus. Hypopigmented band along the lines of Blaschko on the
+
+1112.e1
+
+Online only content
+eFig. 66.7 Hypopigmentation due to injection of corticosteroids into the anatomic snuff box. The outline is both stellate and
+
+eFig. 66.6 Postinflammatory hypopigmentation in a child with atopic dermatitis. Courtesy, Antonio Torrelo, MD.
