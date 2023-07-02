@@ -7,7 +7,7 @@ from langchain.chains import RetrievalQA
 from langchain.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Create instance of OpenAI LLM
 llm = OpenAI(temperature=0.1, verbose=True)
