@@ -7,17 +7,16 @@ from langchain.chains import RetrievalQA
 from langchain.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-os.environ["OPENAI_API_KEY"] = st.secrets["OPEN_AI_KEY"]
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
-# Create instance of OpenAI LLM
-llm = OpenAI(temperature=0.1, verbose=True)
-embeddings = OpenAIEmbeddings()
+@st.cache_resource
+def process_document():
+    loader = TextLoader("chapter66.txt")
+    return(loader.load())
 
-# Load document
-loader = TextLoader("chapter66.txt")
-documents = loader.load()
+documents = process_document()
 
-
+@st.cache_resource
 def process_document_and_create_retriever(chunk_size=1000, k=2, chunk_overlap=100):
     ## Split the documents into chunks
     text_splitter = RecursiveCharacterTextSplitter(
@@ -25,6 +24,7 @@ def process_document_and_create_retriever(chunk_size=1000, k=2, chunk_overlap=10
     )
     texts = text_splitter.split_documents(documents)
     ## Select which embeddings we want to use
+    # Create instance of OpenAI LLM
     embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
     ## Create the vectorestore to use as the index
     db = Chroma.from_documents(texts, embeddings)
@@ -37,7 +37,6 @@ def process_document_and_create_retriever(chunk_size=1000, k=2, chunk_overlap=10
         return_source_documents=True,
     )
     return qa
-
 
 qa = process_document_and_create_retriever()
 
