@@ -48,9 +48,9 @@ with st.sidebar:
     chunk_size = st.slider(
         "Chunk size (controls the max size, in terms of number of characters, of one chunk to be processed by the model)",
         1000,
-        10000,
+        40000,
         2000,
-        1000,
+        100,
     )
     chunk_overlap = st.slider(
         "Chunk overlap (specifies how much overlap there should be between chunks)",
