@@ -7,7 +7,7 @@ from langchain.chains import RetrievalQA
 from langchain.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-os.environ["OPENAI_API_KEY"] = st.secrets["OPEN_API_KEY"]
+os.environ["OPENAI_API_KEY"] = st.secrets["OPEN_AI_KEY"]
 
 # Create instance of OpenAI LLM
 llm = OpenAI(temperature=0.1, verbose=True)
@@ -48,7 +48,7 @@ with st.sidebar:
     chunk_size = st.slider(
         "Chunk size (controls the max size, in terms of number of characters, of one chunk to be processed by the model)",
         1000,
-        40000,
+        4000,
         2000,
         100,
     )
